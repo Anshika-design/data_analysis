@@ -1,0 +1,27 @@
+ EXCEL ANALYSIS – PIVOT TABLES + SUMMARY INSIGHTS,,,,,,,
+,,,,,,,
+TOTAL SALES BY CATEGORY,,,,,,PROFIT MARGIN BY CATEGORY AND REGION,
+,,,,,,,
+Row Labels,Sum of Sales,,,,,Row Labels,Sum of profit margin
+Technology,836154.033,,,,,Furniture,82.25987395
+Furniture,741999.7953,,,,,Central,-89.38731092
+Office Supplies,719047.032,,,,,East,55.52571429
+Grand Total,2297200.86,,,,,South,47.03166667
+,,,,,,West,69.08980392
+,,,,,,Office Supplies,831.7705556
+,,,,,,Central,-225.9261111
+,,,,,,East,353.195
+,,,,,,South,162.3491667
+,,,,,,West,542.1525
+,,,,,,Technology,288.3869841
+,,,,,,Central,73.55198413
+,,,,,,East,67.54166667
+TOP PERFORMING REGION,,,,,,South,55.52
+,,,,,,West,91.77333333
+,,,,,,Grand Total,1202.417414
+Row Labels,Sum of Sales,,,,,,
+West,725457.8245,,,,,,
+Consumer,362880.773,,,,,,
+Corporate,225855.2745,,,,,,
+Home Office,136721.777,,,,,,
+Grand Total,725457.8245,,,,,,

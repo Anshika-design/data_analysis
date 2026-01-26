@@ -1,0 +1,8 @@
+insights
+
+ 1. Revenue is highly concentrated, where a small number of tracks contribute a large portion of total sales, indicating top-performing products drive most revenue.
+
+2. There are no customers in the database who have never placed any orders,indicating strong customer engagement and no inactive customers.
+
+3. Higher-priced tracks generate more revenue even when sold in lower quantities, showing pricing has a strong impact on overall revenue.
+

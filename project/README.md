@@ -94,7 +94,7 @@ To provide detailed revenue analysis for individual countries.
 
 ---
 
-## Dashboard 4 – Top Customer & Regional Analysis
+## Dashboard 4 and Dashboard 5 – Top Customer & Regional Analysis
 
 ![Dashboard 4](project/dashboard4.png)
 

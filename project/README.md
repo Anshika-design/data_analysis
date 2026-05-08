@@ -51,7 +51,7 @@ Through this project, I learned:
 
 ## Dashboard 1 – Monthly Revenue Trend Analysis
 
-![Dashboard 1](dashboards/dashboard1.png)
+![Dashboard 1](project/dashboard1.png)
 
 ### Objective
 To analyze monthly revenue trends for the year 2011 and help leadership identify performance patterns across different months and countries.

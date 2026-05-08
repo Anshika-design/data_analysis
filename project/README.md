@@ -66,7 +66,7 @@ To analyze monthly revenue trends for the year 2011 and help leadership identify
 
 ## Dashboard 2 – Top 10 Countries Revenue Analysis
 
-![Dashboard 2](dashboards/dashboard2.png)
+![Dashboard 2](project/dashboard2.png)
 
 ### Objective
 To identify the top-performing countries contributing the highest revenue.
@@ -81,7 +81,7 @@ To identify the top-performing countries contributing the highest revenue.
 
 ## Dashboard 3 – Country-wise Revenue Breakdown
 
-![Dashboard 3](dashboards/dashboard3.png)
+![Dashboard 3](project/dashboard3.png)
 
 ### Objective
 To provide detailed revenue analysis for individual countries.
@@ -96,7 +96,7 @@ To provide detailed revenue analysis for individual countries.
 
 ## Dashboard 4 – Top Customer & Regional Analysis
 
-![Dashboard 4](dashboards/dashboard4.png)
+![Dashboard 4](project/dashboard4.png)
 
 ### Objective
 To identify top customers and analyze regions generating maximum revenue.
